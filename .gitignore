@@ -1,0 +1,11 @@
+# Altium generated/output folders
+Project_Logs_for_MixedSignal_Board/
+History/
+__Previews/
+*.PcbDoc.bak
+*.SchDoc.bak
+~$*
+
+# OS junk
+Thumbs.db
+.DS_Store

@@ -1,0 +1,11 @@
+Record=TopLevelDocument|FileName=ADC.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=CH340.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=DAC & MIC.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Ethernet PHY.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Motor Driver -2.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Motor Driver.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Power Budget.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Power Input and Regulators.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Schematic Block.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=STM32F103 Debugger.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=STM32F407.SchDoc|SheetNumber=9
